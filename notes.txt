@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 main branch entry
+=======
+>>>>>>> development
 Development branch entry
